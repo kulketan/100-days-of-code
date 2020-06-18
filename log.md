@@ -11,3 +11,13 @@
 4. Data Visualization
 
 **Link to work:** None today
+
+
+### Day 1: June 18,2020 
+
+**Today's Progress**: Completed two modules of Responsive Web Design
+
+**Thoughts:** Learned about newly introduced tag main, Learned lots of new stuff of CSS
+body < tag < class (top to bottom) < id < inline < !important
+
+**Link to work:** https://www.freecodecamp.org/ketankul

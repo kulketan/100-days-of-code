@@ -21,3 +21,21 @@
 body < tag < class (top to bottom) < id < inline < !important
 
 **Link to work:** https://www.freecodecamp.org/ketankul
+
+### Day 2: June 19,2020 
+
+**Today's Progress**: Completed 8 sections of module Applied Visual Design
+
+**Thoughts:** entering this log one day after
+This day's work is not as expected and less than actual time. 
+
+**Link to work:** https://www.freecodecamp.org/ketankul
+
+### Day 3: June 20,2020 
+
+**Today's Progress**: Completed half of the Applied Visual Design section of RWD of FCC.
+
+**Thoughts:** Unlike first day, most of the stuff in section was new to me. To get better comprehension, I started to make notes both digitally & physically (pen&paper). 
+from line weight till css positions property.
+
+**Link to work:** https://www.freecodecamp.org/ketankul

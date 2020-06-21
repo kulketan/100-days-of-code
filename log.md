@@ -39,3 +39,12 @@ This day's work is not as expected and less than actual time.
 from line weight till css positions property.
 
 **Link to work:** https://www.freecodecamp.org/ketankul
+
+### Day 3: June 21,2020 
+
+**Today's Progress**: Learned about complementary colours & transform property of css.
+
+**Thoughts:** Although css is pretty easy to understand remembering all the stuff in the long run is difficult.
+
+**Link to work:** https://www.freecodecamp.org/ketankul
+

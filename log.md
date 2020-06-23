@@ -40,11 +40,21 @@ from line weight till css positions property.
 
 **Link to work:** https://www.freecodecamp.org/ketankul
 
-### Day 3: June 21,2020 
+### Day 4: June 21,2020 
 
 **Today's Progress**: Learned about complementary colours & transform property of css.
 
 **Thoughts:** Although css is pretty easy to understand remembering all the stuff in the long run is difficult.
+
+**Link to work:** https://www.freecodecamp.org/ketankul
+
+###SKIPPED DAY 5 on JUNE 22 for no reason (played DOTA2)
+
+### Day 5: June 23,2020 
+
+**Today's Progress**: Completed Applied Visual Design section
+
+**Thoughts:** After 1 day's break, starting was difficult.
 
 **Link to work:** https://www.freecodecamp.org/ketankul
 
